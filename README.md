@@ -43,7 +43,7 @@ I worked with data from the following sources:
 ### Identify entities
 The first step when designing a new database is to review any existing data and identify the entities for the new system.
 
-The following image shows sample data from each of the data sources that I worked with to design the new central database. I reviewed the image and identified the entities you plan to create.
+The following image shows sample data from each of the data sources that I worked with to design the new central database. I reviewed the image and identified the entities that I planned to create.
 
 
 ![existing_data](https://user-images.githubusercontent.com/63607240/180668418-e921e488-29e4-4004-86f5-9a001902dbe0.png)
